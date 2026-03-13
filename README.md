@@ -18,7 +18,7 @@ Technologies Used
 •	JavaScript (ES6) – Quiz logic and DOM manipulation
 
 Project Structure
-quiz-app
+QuizApp
 │
 ├── index.html
 ├── css
